@@ -28,7 +28,7 @@
     "marked": "^18.0.3",
     "neo4j-driver": "^5.28.3",
     "node-telegram-bot-api": "^0.67.0",
-    "nodemailer": "^9.0.3",
+    "nodemailer": "^10.0.9",
     "openai": "^6.32.0",
     "pdf-parse": "^2.4.5",
     "pg": "^8.19.0",
